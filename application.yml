@@ -2,7 +2,7 @@
 
 spring:
   application:
-     name: Service-default
+     name: Config-default
 eurekar:
   client:
      fetch-registry: true
