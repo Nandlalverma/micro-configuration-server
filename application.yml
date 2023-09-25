@@ -2,7 +2,7 @@
 
 spring:
   application:
-     name: Hotel-Service
+     name: Service-default
 eurekar:
   client:
      fetch-registry: true
